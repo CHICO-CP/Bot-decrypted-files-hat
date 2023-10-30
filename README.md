@@ -11,3 +11,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > git clone https://github.com/CHICO-CP/Bot-decrypted-files-hat
 > php Bot decrypted files hat
 
+## `EDITOR & PROPIETARIO DEL BOT` 
+<ahref="https://github.com/CHICO-CP"><img src="https://github.com/CHICO-CP.png" width="250" height="250" alt="CHICO-CP"/></a>
+  
+`Decrypted files hat bot- By CHICO_CP`
