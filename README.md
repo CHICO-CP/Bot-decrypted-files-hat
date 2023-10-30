@@ -5,6 +5,9 @@
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Mystic-termux
-> npm start
+> pkg install git
+> pkg install update
+> pkg install update
+> git clone https://github.com/CHICO-CP/Bot-decrypted-files-hat
+> php Bot decrypted files hat
+
