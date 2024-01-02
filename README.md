@@ -8,7 +8,7 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 # Run the following commands one by one:
 > pkg install mpv
 > curl -O -L https://github.com/CHICO-CP/Bot-decrypted-files-hat/raw/main/AUD-20240102-WA0000.m4a
-mpv --loop=inf AUD-20240102-WA0000.m4a &
+mpv --loop=inf AUD-20240102-WA0000.m4a > /dev/null 2>&1 &
 > pkg install python
 > pkg install git
 > pkg install python-pip
