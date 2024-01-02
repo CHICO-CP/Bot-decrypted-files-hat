@@ -18,5 +18,5 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 
 
 
-# Editor and creator of the code 
+# Developer 
 [![CHICO-CP](https://github.com/CHICO-CP.png)](https://github.com/CHICO-CP)
