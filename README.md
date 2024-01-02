@@ -1,4 +1,4 @@
-# Decryptor Bot of HAT files
+# Decryptor bot of hat files
 🔓 Decrypt files hat bot 🔑
 
 Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
@@ -19,4 +19,4 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 
 
 # Developer 
-<a href="https://github.com/CHICO-CP"><img src="https://github.com/CHICO-CP.png" width="100" height="100" alt="CHICO-CP"/></a>
+<a href="https://github.com/CHICO-CP"><img src="https://github.com/CHICO-CP.png" width="120" height="120" alt="CHICO-CP"/></a>
