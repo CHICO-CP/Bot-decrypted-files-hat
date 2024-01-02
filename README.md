@@ -14,5 +14,9 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 ```
 
 [![CHICO-CP](https://bit.ly/jhkhw)](https://bit.ly/jhkhw)
+
+
+
+
 **EDITOR & BOT OWNER**
 [![CHICO-CP](https://github.com/CHICO-CP.png)](https://github.com/CHICO-CP)
