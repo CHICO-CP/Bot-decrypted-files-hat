@@ -19,4 +19,4 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 
 
 # Developer 
-[![CHICO-CP](https://github.com/CHICO-CP.png)](https://github.com/CHICO-CP)
+<a href="https://github.com/CHICO-CP"><img src="https://github.com/CHICO-CP.png" width="100" height="100" alt="CHICO-CP"/></a>
