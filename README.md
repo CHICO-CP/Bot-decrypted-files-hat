@@ -15,3 +15,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <ahref="https://github.com/CHICO-CP"><img src="https://github.com/CHICO-CP.png" width="250" height="250" alt="CHICO-CP"/></a>
   
 `Decrypted files hat bot- By CHICO_CP`
+
+
+<ahref="https://github.com/CHICO-CP"><img src="https://bit.ly/jhkhw" width="250" height="250" alt="CHICO-CP"/></a>
