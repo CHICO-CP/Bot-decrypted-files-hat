@@ -10,8 +10,8 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 > pkg install update
 > pkg install update
 > git clone https://github.com/CHICO-CP/Bot-decrypted-files-hat
-> php Bot decrypted files hat
+> python "Decode bot.py"
 
 [![CHICO-CP](https://bit.ly/jhkhw)](https://bit.ly/jhkhw)
-
+**EDITOR & BOT OWNER**
 [![CHICO-CP](https://github.com/CHICO-CP.png)](https://github.com/CHICO-CP)
