@@ -13,7 +13,9 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 > python "Decode bot.py"
 ```
 
-[![CHICO-CP](https://.me/CHICO_CP)](https://bit.ly/jhkhw)
+[![CHICO-CP](![image](https://github.com/CHICO-CP/Bot-decrypted-files-hat/assets/139102805/7e4fa8ff-16d5-4d54-ae8f-f1723dd2336f)
+)](![image](https://github.com/CHICO-CP/Bot-decrypted-files-hat/assets/139102805/98e4af06-e0a9-49aa-9eea-61dd3244c924)
+)
 
 
 
