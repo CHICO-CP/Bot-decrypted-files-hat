@@ -9,6 +9,7 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 > pkg install git
 > pkg install update
 > pkg install update
+> pip install telebot
 > git clone https://github.com/CHICO-CP/Bot-decrypted-files-hat
 > python "Decode bot.py"
 ```
